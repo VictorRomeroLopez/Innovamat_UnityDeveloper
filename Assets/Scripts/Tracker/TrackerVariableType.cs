@@ -1,5 +1,8 @@
-﻿public enum TrackerVariableType
+﻿namespace Tracker
 {
-    Succes = 0,
-    Failure = 1
+    public enum TrackerVariableType
+    {
+        Succes = 0,
+        Failure = 1
+    }
 }
