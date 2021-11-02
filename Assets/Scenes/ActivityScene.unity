@@ -1025,7 +1025,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _trackerBoard: {fileID: 1983322884}
-  _activityNumber: 2
+  _activityNumber: 0
   _settings:
   - {fileID: 11400000, guid: 1e9e0ebb1ac04a74584b64ad9d0b64d6, type: 2}
   - {fileID: 11400000, guid: 32e2280fe6a939248b40d7e4f76a4887, type: 2}
